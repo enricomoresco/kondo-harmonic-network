@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "kondo-harmonic-network: harmonic response of semi-enclosed basins and inlet networks"
+authors:
+  - family-names: Moresco
+    given-names: Enrico
+    affiliation: "University of Genoa"
+version: 1.0.0
+date-released: 2026-10-05
+license: MIT
+repository-code: "https://github.com/enricomoresco/kondo-harmonic-network"
+keywords:
+  - tides
+  - semi-enclosed basins
+  - tidal inlets
+  - equivalent linearisation
+  - reduced-complexity model

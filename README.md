@@ -333,3 +333,13 @@ Coastal Engineering in Japan, 18(1), 167–183.
 
 Lorentz, H. A. (1922). *Het in rekening brengen van den weerstand bij schommelende
 vloeistofbewegingen*. De Ingenieur, 37(36), 695–696.
+
+---
+
+## How to cite
+
+If you use this code, please cite it through the metadata in [`CITATION.cff`](CITATION.cff) (GitHub shows them under *Cite this repository*). Each release is archived on Zenodo with a permanent DOI.
+
+## License
+
+Released under the MIT License: see [`LICENSE`](LICENSE).
